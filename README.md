@@ -1,23 +1,16 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="(https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="100"/>
 </div>
 
-<!--
-**ujjwal-upadhyay/ujjwal-upadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :fire: My Stats :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujjwal-upadhyay&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
 
 ## ⚡ Technologies
 
@@ -35,6 +28,5 @@ Here are some ideas to get you started:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ujjwal-upadhyay&count_private=true&show_icons=true&include_all_commits=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal-upadhyay&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ujjwal-upadhyay.ujjwal-upadhyay)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal-upadhyay&layout=compact&theme=vision-friendly-dark)](https://github.com/ujjwal-upadhyay/github-readme-stats)
